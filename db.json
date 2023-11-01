@@ -1,0 +1,104 @@
+{
+  "productList": [
+    {
+      "productName": "nithya",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 78,
+      "Comment": "sdf",
+      "date": "2023-09-30T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "nithyakalyani",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 78,
+      "Comment": "sdfdf",
+      "date": "2023-09-30T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "hi",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 78,
+      "Comment": "hi",
+      "date": "2023-10-03T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "nithya",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 78,
+      "Comment": "sdf",
+      "date": "2023-09-30T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "nithyakalyani",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 78,
+      "Comment": "sdfdf",
+      "date": "2023-09-30T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "nithyakalyani",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 0,
+      "Comment": "sdfdf",
+      "date": "2023-09-30T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "nk",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 78,
+      "Comment": "sdfdf",
+      "date": "2023-09-30T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "ni",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 78,
+      "Comment": "sdfdf",
+      "date": "2023-09-30T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "nithya",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 10,
+      "Comment": "hey hi ",
+      "date": "2023-09-30T18:30:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "meena",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 78,
+      "Comment": "sdfdf",
+      "date": "2023-09-30T18:30:00.000Z",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
